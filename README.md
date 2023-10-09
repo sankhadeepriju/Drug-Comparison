@@ -15,7 +15,5 @@ Associated files: _Stat_Prelim_Response.pptx_ contains our statistical analysis 
 **The magic pill, ‘Testa 1.0 mg’ was found to be clinically effective in reducing body weight in teens with obesity. A big news to celebrate!! In the near-future, to explore the effectiveness of a new formulation of Testa – 2.0 mg,  your team plans to design and conduct a Phase – 3 trial of the similar setup involving multiple trial centers and other demographics.**
 
 **To better understand the link between eating behavioral patterns with obesity, you now decide to go ahead with two sets of questionnaires – TestQ (ECS, UCS, RCS) and Impulsivity Questionnaire (Lack of Planning, Attentional impulsivity, Motor impulsivity).**
-![image](https://github.com/sankhadeepriju/Drug-Comparison/assets/53206214/eb793df7-3d2e-4d34-92d5-8e5fa16cd510)
-
 
 In this round, we were handed parameters for simulating data for test subjects who are to be given **Testa 1mg, Testa 2mg & a Placebo.**
