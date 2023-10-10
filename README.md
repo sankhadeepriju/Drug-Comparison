@@ -7,7 +7,7 @@ It is crucial to address and prevent obesity in teenagers through a combination 
 
 The Prelims Round consisted of a Data on teenagers below 18, affected by _Obseity_. The data is used to compare two treatments, namely Treatment A & Treatment B, to understand which among them is an effective drug to combat obesity. We utilized as much information provided & concluded our interpreatations, along with a few suggestions.
 
-Associated files: _Stat_Prelim_Response.pptx_ contains our statistical analysis & interpretation.
+**_Associated files: _Stat_Prelim_Response.pptx_ contains our statistical analysis & interpretation._**
 
 
 ### Novo Nordisk Data Quest FINAL ROUND 24th July - 30th August, 2023.
@@ -17,3 +17,6 @@ Associated files: _Stat_Prelim_Response.pptx_ contains our statistical analysis 
 **To better understand the link between eating behavioral patterns with obesity, you now decide to go ahead with two sets of questionnaires – TestQ (ECS, UCS, RCS) and Impulsivity Questionnaire (Lack of Planning, Attentional impulsivity, Motor impulsivity).**
 
 In this round, we were handed parameters for simulating data for test subjects who are to be given **Testa 1mg, Testa 2mg & a Placebo.**
+We simulated our data for 564 patients & administered the doses in ratio 1\:2:1. We have presented our observations, statistical analysis & interpretations.
+
+**_Associated files: DQUEST_Stat_Final_Presentation.pptx, Drug Comparison Testa.ipynb._**
